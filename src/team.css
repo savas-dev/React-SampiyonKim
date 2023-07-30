@@ -1,0 +1,11 @@
+.team{
+    width: 250px;
+    height: 250px;
+}
+
+.teamDiv{
+    margin: 10px;
+    border: 1px solid lightgray;
+    pad: 10px;
+    border-radius: 10x;
+}
